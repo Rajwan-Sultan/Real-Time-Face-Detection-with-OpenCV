@@ -46,7 +46,7 @@ Place the file in the following path:
 ### 3️⃣ Run the Script
 
 ```bash
-python face_detect.py
+python face.py
 ```
 
 ---
