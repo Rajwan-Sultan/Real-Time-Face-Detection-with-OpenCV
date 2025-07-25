@@ -66,7 +66,8 @@ python face_detect.py
 
 ```
 .
-├── face_detect.py               # Main Python script
+├── code/              
+│   └── face.py                   # Main Python script
 ├── trained_face_data/
 │   └── haarcascade_frontalface_default.xml
 └── README.md                    # Project documentation
